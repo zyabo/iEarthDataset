@@ -10,13 +10,12 @@ If you would like to be a member of the group, please email me (zyabo@foxmail.co
 
 
 
-
-
 > No Data, No Paper!
 数据是科学研究的粮食，尤其是大数据时代！
 
 本文将总结我在近些年来收集的地质数据源，希望对大家有所帮助。
 个人收集的数据范围难免有所遗漏，如有补充请留言。
+另外我在github上创建了一个名为[iEarthDataset](https://github.com/zyabo/iEarthDataset "iEarthDataset")的资源库，方便大家一同维护和提交。
 【注意】有些网址可能需要科学上网
 
 ## 地质类
@@ -67,19 +66,27 @@ If you would like to be a member of the group, please email me (zyabo@foxmail.co
 包括：
 1:1M 和 1:2.5M 比例 Surface Geology
 http://services.ga.gov.au/site_1/services/GA_Surface_Geology/MapServer/WMSServer
+
 Geological Provinces
 http://services.ga.gov.au/site_3/services/Geological_Provinces_2013/MapServer/WMSServer
+
 国家地球物理网格
 http://services.ga.gov.au/site_9/services/Geophysical_Grids/MapServer/WMSServer
+
 陆上地震调查
 http://services.ga.gov.au/site_9/services/Onshore_Seismic_Surveys/MapServer/WMSServer
+
 扫描的 250K 地质图
-http://services.ga.gov.au/site_9/services/Scanned_250k_ ​​Geological_Map_Index/MapServer/WMSServer
+http://services.ga.gov.au/site_9/services/Scanned_250k_Geological_Map_Index/MapServer/WMSServer
+
 地形和基础设施
 http://services.ga.gov.au/site_7/services/Topographic_Base_Map/MapServer/WMSServer
+
 其他网络服务：
 Rock Properties
+
 WMS (v1.1.0, v1.3.0) - http://www.ga.gov.au/geophysics-rockpropertypub-gws/ga_rock_properties_wms/ows 
+
 WFS (v1.1.0, v2.0.0) - http://www.ga.gov.au/geophysics-rockpropertypub-gws/ga_rock_properties_wfs/ows
 
 ##### [澳大利亚 政府公开数据](https://data.gov.au/organisations/org-dga-5666db1a-1b62-4484-8ec8-350fb28bdc2f "澳大利亚 政府公开数据")
@@ -91,15 +98,21 @@ View all 12968 datasets from Geoscience Australia
 
 ##### 澳大利亚 维多利亚 就业、选区和地区部
 1:50K 和 1:250K 地质图
+
 WMS (v1.1.1, v1.3.0) - http://geology.data.vic.gov.au/services/mapping/wms
+
 钻孔、矿山、矿产地、矿产地（GeoSciML、EarthResourceML、MinOccML、MineralTenementML）
+
 WMS（v1.1.1、v1.3.0）- http://geology.data.vic.gov.au/nvcl/wms
+
 WFS（ v1.1） 1.0, v2.0.0) - http://geology.data.vic.gov.au/nvcl/wfs
 
 矿山和矿产 (EarthResourceML)
+
 WFS (v1.1.0, v2.0.0) - http://geology.data.vic.gov.au/services/earthresourceml/wfs
 
 钻孔 (GeoSciML)
+
 WFS (v1.1.0, v2.0.0) - http://geology.data.vic.gov.au/services/geosciml/borehole/wfs
 
 
@@ -116,33 +129,48 @@ WFS (v1.1.0, v2.0.0) - http://geology.data.vic.gov.au/services/geosciml/borehole
 
 ##### 澳大利亚 南澳大利亚 能源与矿业部
 石油矿权
+
 WMTS (v1.1.0, v1.1.1) - https://services.sarig.sa.gov.au/vector/petroleum_tenements/wms
+
 WFS (v1.0.0, v1.1.0) - https://services.sarig .sa.gov.au/vector/petroleum_tenements/wfs
 
 地热矿权
+
 WMTS (v1.1.0, v1.1.1) - https://services.sarig.sa.gov.au/vector/geothermal_tenements/wms
+
 WFS (v1.0.0, v1.1.0) - https:/services.sarig。 sa.gov.au/vector/geothermal_tenements/wfs
 
 地球科学数据 - 地质单元、结构、地质省份、风化层、古排水系统
+
 WMTS (v1.1.0, v1.1.1) - https://services.sarig.sa.gov.au/vector/geology/wms
+
 WFS (v1.0.0 , v1.1.0) - https://services.sarig.sa.gov.au/vector/geology/wfs
 
 地球物理勘测 - 包括机载 EM 勘测区域/线、机载辐射测量/磁勘测区域、电力勘测和状态重力站
+
 WMTS（v1.1.0、v1.1.1） - https://services.sarig.sa.gov.au/vector /geophysical_data/wms
+
 WFS (v1.0.0, v1.1.0) - https://services.sarig.sa.gov.au/vector/geophysical_data/wfs
 
-地球物理图像 - 包括 TMI、重力、辐射和深度到地下室图像
+地球物理图像 - 包括 TMI、重力、辐射
+
 WMTS（v1.1.0、v1.1.1） - https://services.sarig.sa.gov.au/raster/geophysicalstateimages/wms
+
 矿物钻孔、石油和地热井
 WMTS (v1.1.0, v1.1.1) - https://services.sarig.sa.gov.au/vector/drillholes/wms
+
 WFS (v1.0.0, v1.1.0) - https: //services.sarig.sa.gov.au/vector/drillholes/wfs
 
 矿物岩石样品点 - 地球化学、钙质、岩石学、生物地层学样品位置
+
 WMTS（v1.1.0，v1.1.1） - https://services.sarig.sa.gov.au/vector/sampling_analysiss/wms
+
 WFS（v1.0.0， v1.1.0) - https://services.sarig.sa.gov.au/vector/sampling_analysiss/wfs
 
 钻孔、矿山、矿产、矿权（GeoSciML、EarthResourceML、MinOccML、MineralTenementML）
+
 WMS（v1.1.1、v1.3.0） - https://sarigdata.pir.sa.gov.au/nvcl/geoserver/wms
+
 WFS（ v1.1.0、v2.0.0) - https://sarigdata.pir.sa.gov.au/nvcl/geoserver/wfs
 
 
@@ -226,18 +254,27 @@ http://geology.information.qld.gov.au/geoserver/wfs
 #### 新西兰
 ##### 新西兰 石油与矿产部
 矿产和石油 - 通用上下文地图图层
+
 WMS - https://data.nzpam.govt.nz/arcgis/services/EXTERNAL/Context/MapServer/WMSServer
+
 ESRI Rest - ESRI Rest - https://data.nzpam.govt.nz/arcgis/rest/services/EXTERNAL/Context/MapServer
 
 地球物理调查
+
 WMS - https://data.nzpam.govt.nz/arcgis/services/EXTERNAL/Geophysical_Surveys/MapServer/WMSServer
-WFS - https://data.nzpam.govt.nz/arcgis/services/EXTERNAL/Geophysical_Surveys/MapServer /WFSServer
-ESRI 休息 - https://data.nzpam.govt.nz/arcgis/rest/services/EXTERNAL/Geophysical_Surveys/MapServer
+
+WFS - https://data.nzpam.govt.nz/arcgis/services/EXTERNAL/Geophysical_Surveys/MapServer/WFSServer
+
+ESRI Rest - https://data.nzpam.govt.nz/arcgis/rest/services/EXTERNAL/Geophysical_Surveys/MapServer
 
 煤钻孔
+
 WMS - https://data.nzpam.govt.nz/arcgis/services/EXTERNAL/Coal_Drill_holes/MapServer/WMSServer
-WFS - https://data.nzpam.govt.nz/arcgis/services/EXTERNAL/Coal_Drill_holes/ MapServer/WFSServer
-ESRI Rest - https://data.nzpam.govt.nz/arcgis/rest/services/EXTERNAL/Coal_Drill_holes/MapServer
+
+WFS - https://data.nzpam.govt.nz/arcgis/services/EXTERNAL/Coal_Drill_holes/MapServer/WFSServer
+
+ESRI Rest -
+https://data.nzpam.govt.nz/arcgis/rest/services/EXTERNAL/Coal_Drill_holes/MapServer
 
 矿物钻孔
 WMS - https://data.nzpam.govt.nz/arcgis/services/EXTERNAL/Mineral_Drill_holes/MapServer/WMSServer
@@ -245,30 +282,46 @@ WFS - https://data.nzpam.govt.nz/arcgis/services/EXTERNAL/Mineral_Drill_holes/ M
 ESRI Rest - https://data.nzpam.govt.nz/arcgis/rest/services/EXTERNAL/Mineral_Drill_holes/MapServer
 
 矿物特征服务
-ESRI 休息 - https://data.nzpam.govt.nz/arcgis/rest/services/EXTERNAL/Minerals_Feature_Service/FeatureServer
+
+ESRI Rest - https://data.nzpam.govt.nz/arcgis/rest/services/EXTERNAL/Minerals_Feature_Service/FeatureServer
+
 
 矿产地图图层
 WMS - https://data.nzpam.govt.nz/arcgis/services/EXTERNAL/Minerals/MapServer/WMSServer
+
 ESRI Rest - https://data.nzpam.govt.nz/arcgis/rest/services/EXTERNAL/Minerals/MapServer
 
+
 石油井
+
 WMS - https://data.nzpam.govt.nz/arcgis/services/EXTERNAL/Petroleum_Wells/MapServer/WMSServer
-WFS - https://data.nzpam.govt.nz/arcgis/services/EXTERNAL/Petroleum_Wells/MapServer /WFSServer
+
+WFS - https://data.nzpam.govt.nz/arcgis/services/EXTERNAL/Petroleum_Wells/MapServer/WFSServer
+
 ESRI Rest - https://data.nzpam.govt.nz/arcgis/rest/services/EXTERNAL/Petroleum_Wells/MapServer
 
 石油地图图层
 WMS - https://data.nzpam.govt.nz/arcgis/services/EXTERNAL/Petroleum_Data/MapServer/WMSServer
-WFS - https://data.nzpam.govt.nz/arcgis/services/EXTERNAL/Petroleum_Data/ MapServer/WFSServer
+
+WFS - https://data.nzpam.govt.nz/arcgis/services/EXTERNAL/Petroleum_Data/MapServer/WFSServer
+
 ESRI Rest - https://data.nzpam.govt.nz/arcgis/rest/services/EXTERNAL/Petroleum_Data/MapServer
 
-石油许可证、应用程序和相关图层
+
+石油、应用程序和相关图层
+
 WMS - https://data.nzpam.govt.nz/arcgis/services/EXTERNAL/Petroleum/MapServer/WMSServer
+
 ESRI Rest - https://data.nzpam.govt.nz/arcgis/rest/services/EXTERNAL/Petroleum/MapServer
 
 公共矿产、石油、煤炭报告
 WMS - https://data.nzpam.govt.nz/arcgis/services/EXTERNAL/Report_Areas/MapServer/WMSServer
-WFS - https://data.nzpam.govt.nz/arcgis/services/ EXTERNAL/Report_Areas/MapServer/WFSServer
-ESRI Rest - https://data.nzpam.govt.nz/arcgis/rest/services/EXTERNAL/Report_Areas/MapServer
+
+WFS - 
+https://data.nzpam.govt.nz/arcgis/services/EXTERNAL/Report_Areas/MapServer/WFSServer
+
+ESRI Rest -
+https://data.nzpam.govt.nz/arcgis/rest/services/EXTERNAL/Report_Areas/MapServer
 
 
 ##### [新西兰 GNS 科学网络地图和网络服务](https://maps.gns.cri.nz/ "新西兰 GNS 科学网络地图和网络服务")
@@ -426,17 +479,19 @@ Imports U.S. Geological Survey (USGS) daily hydrologic data from USGS web servic
 ## 文章/期刊——开源
 Directory of Open Access Journals:  https://doaj.org/(link is external)
 
-AAPG Search and Discovery:  http://www.searchanddiscovery.com/(link is external)
+AAPG Search and Discovery:  http://www.searchanddiscovery.com/
 
-PetroWiki (SPE):  http://petrowiki.org/PetroWiki(link is external)
+PetroWiki (SPE):  http://petrowiki.org/PetroWiki
 
-Journal of Petroleum Exploration and Production Technologies:  https://doaj.org/toc/2190-0566(link is external)
+Journal of Petroleum Exploration and Production Technologies:  https://doaj.org/toc/2190-0566
 
-Oil and Gas Science and Technology:  https://doaj.org/toc/1953-8189(link is external)
+Oil and Gas Science and Technology:  https://doaj.org/toc/1953-8189
 
-Petroleum and Coal:  https://doaj.org/toc/1337-7027(link is external)
+Petroleum and Coal:  https://doaj.org/toc/1337-7027
 
 Journal of Petroleum Engineering:  https://doaj.org/toc/2314-5013
+
+
 
 
 
