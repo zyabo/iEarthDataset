@@ -15,7 +15,7 @@ If you would like to be a member of the group, please email me (zyabo@foxmail.co
 
 本文将总结我在近些年来收集的地质数据源，希望对大家有所帮助。
 个人收集的数据范围难免有所遗漏，如有补充请留言。
-另外我在github上创建了一个名为[iEarthDataset](https://github.com/zyabo/iEarthDataset "iEarthDataset")的资源库，方便大家一同维护和提交。
+
 【注意】有些网址可能需要科学上网
 
 ## 地质类
